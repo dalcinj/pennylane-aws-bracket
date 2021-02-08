@@ -8,6 +8,8 @@ amazon-braket-sdk = "*"
 ipykernel = "*"
 matplotlib = "*"
 boto3 = "*"
+pennylane = "*"
+amazon-braket-pennylane-plugin = "*"
 
 [dev-packages]
 
